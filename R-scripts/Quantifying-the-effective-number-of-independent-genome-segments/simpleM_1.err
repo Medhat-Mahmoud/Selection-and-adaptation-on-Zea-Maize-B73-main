@@ -1,0 +1,3 @@
+Warning message:
+'memory.limit()' is Windows-specific 
+slurmstepd: error: *** JOB 5516761 ON dfa003 CANCELLED AT 2020-10-20T00:10:38 DUE TO TIME LIMIT ***
